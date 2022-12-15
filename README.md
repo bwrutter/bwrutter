@@ -21,10 +21,10 @@
       <img width="30" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
     </a>
     <a href = "https://www.linkedin.com/in/bwrutter/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
     <a href = "https://www.instagram.com/brutter96/">
-      <img width="25" src="instagram.png">
+      <img width="25" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
     </a>
 </div>
   
