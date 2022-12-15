@@ -5,7 +5,6 @@
   <img align="right" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwrutter&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="120" alt="coding-time" src="code.gif">
@@ -14,8 +13,7 @@
       <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
       <img align="center" height="30" width="40" alt="spring-icon" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
       <img align="center" height="30" width="40" alt="postgresql-icon" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-   </div>    
-  
+   </div>  
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: bryanwrutter96@gmail.com">
       <img width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png">
