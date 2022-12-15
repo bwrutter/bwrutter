@@ -18,7 +18,7 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: bryanwrutter96@gmail.com">
-      <img width="30" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
+      <img width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png">
     </a>
     <a href = "https://www.linkedin.com/in/bwrutter/">
       <img width="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
