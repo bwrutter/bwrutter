@@ -1,5 +1,5 @@
 ## Opa, Bryan aqui!
-<h1> Me chamo Bryan e sou desenvolvedor Full-Stack, com foco em Angular e Spring, apaixonado por tecnologia, e mas horas vagas sou gamer retrô e pescado de lambari kkk</h1>
+<h4> Me chamo Bryan e sou desenvolvedor Full-Stack, com foco em Angular e Spring, apaixonado por tecnologia, nas horas vagas sou gamer retrô e pescado de lambari kkk</h4>
 
 <div>  
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=bwrutter&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
