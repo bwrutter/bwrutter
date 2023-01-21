@@ -1,5 +1,5 @@
 ## Olá!
-<h5><b><i> Me chamo Bryan e sou desenvolvedor Back-End com foco em Spring e Angular, também tenho conhecimento em CoffeScript e Typescript, criação de VM'S na Amazon e GCP, apaixonado por tecnologia, iniciei na área pois sempre gostei do mundo da programação, com 5 anos ganhei um Compaq 486 dos meus pais, dali em diante não larguei mais, adoro inventar e aprender coisas novas, nas horas vagas sou gamer retrô e pescador de lambari kkk </h5> <img height="50em" src="https://stickerly.pstatic.net/sticker_pack/Kn8JyYUGkMSDqlfO6npnNQ/0IPP7X/2/920937b5-77f2-4dad-a3a2-e79fe11cb36b.png"></b></i><br>
+<h5><b><i> Me chamo Bryan e sou desenvolvedor Back-End com foco em Spring e Angular, também tenho conhecimento em CoffeScript e Typescript, criação de VM'S na Amazon e GCP, apaixonado por tecnologia, iniciei na área pois sempre gostei do mundo da programação, com 5 anos ganhei um Compaq 486 dos meus pais, dali em diante não larguei mais, adoro inventar e aprender coisas novas, fique a vontade para olhar os meus repositórios, caso queira trocar uma idéia pode me chamar no linkedin, e não menos importante, nas horas vagas sou gamer retrô e pescador de lambari kkk </h5> <img height="50em" src="https://stickerly.pstatic.net/sticker_pack/Kn8JyYUGkMSDqlfO6npnNQ/0IPP7X/2/920937b5-77f2-4dad-a3a2-e79fe11cb36b.png"></b></i><br>
 
 <br>
 <div>  
