@@ -1,5 +1,5 @@
 ## Olá!
-<h5><b><i> Me chamo Bryan e sou desenvolvedor Full-Stack com foco em Spring e Angular, apaixonado por tecnologia, iniciei na área pois sempre gostei do mundo da programação, com 5 anos ganhei um Compaq 486 dos meus pais, dali em diante não larguei mais, adoro inventar e aprender coisas novas, nas horas vagas sou gamer retrô e pescador de lambari kkk </b></i></h5>
+<h5><b><i> Me chamo Bryan e sou desenvolvedor Back-ENd com foco em Spring e Angular, apaixonado por tecnologia, iniciei na área pois sempre gostei do mundo da programação, com 5 anos ganhei um Compaq 486 dos meus pais, dali em diante não larguei mais, adoro inventar e aprender coisas novas, nas horas vagas sou gamer retrô e pescador de lambari kkk src="https://stickerly.pstatic.net/sticker_pack/Kn8JyYUGkMSDqlfO6npnNQ/0IPP7X/2/920937b5-77f2-4dad-a3a2-e79fe11cb36b.png" </b></i></h5>
 <br>
 
 <div>  
