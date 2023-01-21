@@ -1,7 +1,7 @@
 ## Olá!
-<h5><b><i> Me chamo Bryan e sou desenvolvedor Back-ENd com foco em Spring e Angular, apaixonado por tecnologia, iniciei na área pois sempre gostei do mundo da programação, com 5 anos ganhei um Compaq 486 dos meus pais, dali em diante não larguei mais, adoro inventar e aprender coisas novas, nas horas vagas sou gamer retrô e pescador de lambari kkk </b></i></h5>
+<h5><b><i> Me chamo Bryan e sou desenvolvedor Back-ENd com foco em Spring e Angular, apaixonado por tecnologia, iniciei na área pois sempre gostei do mundo da programação, com 5 anos ganhei um Compaq 486 dos meus pais, dali em diante não larguei mais, adoro inventar e aprender coisas novas, nas horas vagas sou gamer retrô e pescador de lambari kkk </b></i></h5><img height="60em" src="https://stickerly.pstatic.net/sticker_pack/Kn8JyYUGkMSDqlfO6npnNQ/0IPP7X/2/920937b5-77f2-4dad-a3a2-e79fe11cb36b.png">
 <br>
-<img height="75em" src="https://stickerly.pstatic.net/sticker_pack/Kn8JyYUGkMSDqlfO6npnNQ/0IPP7X/2/920937b5-77f2-4dad-a3a2-e79fe11cb36b.png">
+
 <div>  
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=bwrutter&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwrutter&layout=compact&langs_count=16&theme=great-gatsby"/>
