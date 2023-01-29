@@ -1,6 +1,5 @@
 ## Olá!
-<h5><b><i> Me chamo Bryan e sou desenvolvedor Back-End, atualmente com foco em Java e Angular, também tenho conhecimento em CoffeScript,Typescript e PHP, criação de VM'S na Amazon e GCP, manjo de linux também, apaixonado por tecnologia, iniciei na área pois sempre gostei do mundo da programação, com 5 anos ganhei um Compaq 486 dos meus pais, dali em diante não larguei mais, adoro inventar e aprender coisas novas, fique a vontade para olhar os meus repositórios, caso queira trocar uma idéia pode me chamar no linkedin, e não menos importante, nas horas vagas sou gamer retrô e pescador de lambari kkk </h5> <img height="50em" src="https://stickerly.pstatic.net/sticker_pack/Kn8JyYUGkMSDqlfO6npnNQ/0IPP7X/2/920937b5-77f2-4dad-a3a2-e79fe11cb36b.png"></b></i><br>
-
+<h5><b><i> Me chamo Bryan e sou desenvolvedor Back-End, atualmente trabalho com Java e Angular, também tenho conhecimento em CoffeScript,Typescript e PHP, criação de VM'S na Amazon e GCP, manjo de linux também, fique a vontade para olhar os meus repositórios, caso queira trocar uma idéia pode me chamar no linkedin!
 <br>
 <div>  
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=bwrutter&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
