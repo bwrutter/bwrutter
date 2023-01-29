@@ -1,6 +1,8 @@
 ## Olá!
 <h5><b><i> Me chamo Bryan e sou desenvolvedor Back-End, atualmente trabalho com Java e Angular, também tenho conhecimento em CoffeScript,Typescript e PHP, criação de VM'S na Amazon e GCP, manjo de linux também, fique a vontade para olhar os meus repositórios, caso queira trocar uma idéia pode me chamar no linkedin!
 <br>
+<br>
+<br>
 <div>  
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=bwrutter&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwrutter&layout=compact&langs_count=16&theme=great-gatsby"/>
