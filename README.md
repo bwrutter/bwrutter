@@ -1,5 +1,5 @@
 ## Olá!
-<h5><b><i> Me chamo Bryan e sou desenvolvedor Back-End, atualmente trabalho com Java e Angular, também tenho conhecimento em CoffeScript,Typescript e PHP, criação de VM'S na Amazon e GCP, manjo de linux também, fique a vontade para olhar os meus repositórios, caso queira trocar uma idéia pode me chamar no linkedin!
+<h5><b><i> Me chamo Bryan e sou desenvolvedor Back-End, atualmente trabalho com Java e Angular, também tenho conhecimento em CoffeScript, Vue, Typescript e PHP, criação de VM'S na Amazon e GCP, manjo de linux também, fique a vontade para olhar os meus repositórios, caso queira trocar uma idéia pode me chamar no linkedin!
 <br>
 <br>
 <br>
