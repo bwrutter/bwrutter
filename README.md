@@ -1,5 +1,5 @@
 ## Olá!
-<h5><b><i> Me chamo Bryan e sou desenvolvedor Back-End, atualmente trabalho com Java e Angular, também tenho conhecimento em CoffeScript, Vue, Typescript e PHP, criação de VM'S na Amazon e GCP, manjo de linux também, fique a vontade para olhar os meus repositórios, caso queira trocar uma idéia pode me chamar no linkedin!
+<h5><b><i> Me chamo Bryan e sou desenvolvedor Back-End, atualmente trabalho com Vue, Typescript, Node e AWS, também tenho conhecimento em CoffeScript, AngulaJS, Java, criação de VM'S na Amazon e GCP, manjo de linux também, fique a vontade para olhar os meus repositórios, caso queira trocar uma idéia pode me chamar no linkedin!
 <br>
 <br>
 <br>
@@ -14,13 +14,9 @@
   <div style="display: inline_block"><br>
     <img align="left" height="120" alt="coding-time" src="code.gif">
     <h1 align="center">Principais tecnologias!</h1>
-      <img align="center" height="30" width="40" alt="angular-icon" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-      <img align="center" height="30" width="40" alt="spring-icon" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-      <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-      <img align="center" height="30" width="40" alt="coffee-icon" src=https://github.com/devicons/devicon/blob/master/icons/coffeescript/coffeescript-original.svg>
-      <img align="center" height="30" width="40" alt="php-icon" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-      <img align="center" height="30" width="40" alt="postgresql-icon" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-      <img align="center" height="30" width="40" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+      <img align="center" height="30" width="40" alt="vue-icon" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+      <img align="center" height="30" width="40" alt="type-icon" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-      original.svg">
+      <img align="center" height="30" width="40" alt="node-icon" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">         <img align="center" height="30" width="40" alt="node-icon" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">    
    </div>  
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: bryanwrutter96@gmail.com">
