@@ -15,7 +15,7 @@
     <img align="left" height="120" alt="coding-time" src="code.gif">
     <h1 align="center">Principais tecnologias!</h1>
       <img align="center" height="30" width="40" alt="vue-icon" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-      <img align="center" height="30" width="40" alt="typescript-icon" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-      original.svg">
+      <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-      original.svg">
       <img align="center" height="30" width="40" alt="node-icon" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">         <img align="center" height="30" width="40" alt="node-icon" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">    
    </div>  
   <h1 align="center">Redes Sociais</h1>
