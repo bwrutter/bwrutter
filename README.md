@@ -1,5 +1,5 @@
 ## Olá!
-<h5><b><i> Me chamo Bryan e sou desenvolvedor Back-End, atualmente trabalho com Vue, Typescript, Node, Docker, Lambdas AWS, também tenho conhecimento em CoffeScript, AngulaJS, Java, criação de VM'S na Amazon e GCP, manjo de linux também, fique a vontade para olhar os meus repositórios, caso queira trocar uma idéia pode me chamar no linkedin!
+<h5><b><i> Me chamo Bryan e sou desenvolvedor Back-End, atualmente trabalho com Vue, Typescript, Node, Docker, Serverless Framework, Lambdas AWS, construção de CI/CD GitHub Actions, também tenho conhecimento em CoffeScript, AngularJS, Java, criação de VM'S na Amazon e GCP, manjo de linux também, fique a vontade para olhar os meus repositórios, caso queira trocar uma idéia pode me chamar no linkedin!
 <br>
 <br>
 <br>
