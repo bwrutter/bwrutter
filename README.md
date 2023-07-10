@@ -1,8 +1,5 @@
 ## Olá!
 <h5><b><i> Me chamo Bryan e sou desenvolvedor Back-End, atualmente trabalho com Vue, Javascript, Typescript, Node, Serverless Framework, Docker, construção de CI/CD GitHub Actions, também tenho conhecimento em CoffeScript, AngularJS, Java, criação de VM'S na Amazon e GCP, manjo de linux também, fique a vontade para olhar os meus repositórios, caso queira trocar uma idéia pode me chamar no linkedin!
-  <div href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=bwrutter&label=Profile%20Views&pretty=false" />
-</div>
 <br>
 <br>
 <br>
