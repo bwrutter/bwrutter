@@ -24,6 +24,6 @@
       <img width="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
 </div>
-<a href="https://visitcount.itsvg.in">
+<div href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=bwrutter&label=Profile%20Views&pretty=false" />
-</a>
+</div>
