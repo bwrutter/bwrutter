@@ -24,4 +24,6 @@
       <img width="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
 </div>
-![](https://visitcount.itsvg.in/api?id=rafael-perini&icon=4&color=3)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=bwrutter&label=Profile%20Views&pretty=false" />
+</a>
