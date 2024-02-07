@@ -10,7 +10,8 @@
     <h1 align="center">Principais tecnologias!</h1>
       <img align="center" height="30" width="40" alt="vue-icon" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
       <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-      <img align="center" height="30" width="40" alt="node-icon" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">         <img align="center" height="30" width="40" alt="node-icon" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">    
+      <img align="center" height="30" width="40" alt="node-icon" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">         
+      <img align="center" height="30" width="40" alt="node-icon" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">    
    </div>  
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: bryanwrutter96@gmail.com">
