@@ -1,5 +1,5 @@
 ## Olá!
-<h5><b><i> Me chamo Bryan e sou desenvolvedor Full-Stack, atualmente trabalho com Vue, Javascript, Typescript, Node, Serverless Framework, Docker, construção de CI/CD GitHub Actions e AWS, fique a vontade para olhar os meus repositórios, caso queira trocar uma idéia pode me chamar no linkedin!
+<h5><b><i> Me chamo Bryan e sou desenvolvedor Full-Stack, atualmente trabalho com React, Javascript, Node e Jest, porem tambem tenho conhecimentos em Serverless Framework, Docker, GitHub Actions e AWS
 <br>
 <br>
 <br>
@@ -8,9 +8,11 @@
   <div style="display: inline_block"><br>
     <img align="left" height="120" alt="coding-time" src="code.gif">
     <h1 align="center">Principais tecnologias!</h1>
+      <img align="center" height="30" width="40" alt="react-original" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
       <img align="center" height="30" width="40" alt="vue-icon" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
       <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-      <img align="center" height="30" width="40" alt="node-icon" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">         
+      <img align="center" height="30" width="40" alt="node-icon" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">        
+      <img align="center" height="30" width="40" alt="jest-plain" src=" https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
       <img align="center" height="30" width="40" alt="node-icon" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">    
    </div>  
   <h1 align="center">Redes Sociais</h1>
