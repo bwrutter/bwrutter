@@ -1,5 +1,5 @@
 ## Olá!
-<h5><b><i> Me chamo Bryan e sou desenvolvedor Full-Stack, atualmente trabalho com React, Javascript, Node e Jest, porem tambem tenho conhecimentos em Serverless Framework, Docker, GitHub Actions e AWS
+<h5><b><i> Me chamo Bryan e sou desenvolvedor Full-Stack, atualmente trabalho com React, Javascript, Node e Jest, porem tambem tenho conhecimentos em Vue, Typescript, Serverless Framework, Docker, GitHub Actions e AWS
 <br>
 <br>
 <br>
@@ -12,7 +12,7 @@
       <img align="center" height="30" width="40" alt="vue-icon" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
       <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
       <img align="center" height="30" width="40" alt="node-icon" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">        
-      <img align="center" height="30" width="40" alt="jest-plain" src=" https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
+      <img align="center" height="30" width="40" alt="jest-plain" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
       <img align="center" height="30" width="40" alt="node-icon" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">    
    </div>  
   <h1 align="center">Redes Sociais</h1>
